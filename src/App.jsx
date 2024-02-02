@@ -3,7 +3,7 @@ import { useState } from "react";
 import "./index.css";
 import Logo from "./logo.jsx";
 import Form from "./form.jsx";
-import PackingList from "./packinglist.jsx";
+import PackingList from "./packing.jsx";
 import Stats from "./Stats.jsx";
 
 function App() {
